@@ -1,0 +1,7 @@
+tensorflow>=2.0
+torch>=1.10
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
